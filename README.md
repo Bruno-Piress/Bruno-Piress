@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Bruno 👋
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://brunopires.online/#/)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://bit.ly/Bruno-Pires)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunopiress/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-Piress&show_icons=true&theme=merko)
